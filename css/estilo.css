@@ -1,0 +1,37 @@
+body {
+  background: #E6E6FA;
+}
+
+
+#contenedor1{
+  background: #669999;
+  position: absolute;
+  top:15%;
+  left:35%;
+  width:36%;
+  height: 20%;
+  padding: 10px 0px 0px 20px;
+  border-radius: 20px 20px 20px 20px;
+  color: white;
+}
+
+form {
+  left:35%;
+}
+
+input{
+  width: 130%;
+}
+
+
+#encabezado{
+  text-align: center;
+}
+
+#contenido{
+  color:black;
+}
+
+h1{
+  color:black;
+}
